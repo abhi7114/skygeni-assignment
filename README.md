@@ -473,10 +473,6 @@ All models converge around AUC ~0.50, indicating the **feature set is the limiti
 - The true leverage lies in closing the loop between insights and action
 
 ---
-
-**License:** MIT  
-**Last Updated:** February 13, 2026
-
 ---
 
 ## Quick Links
